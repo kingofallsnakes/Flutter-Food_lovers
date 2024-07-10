@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/food_ordering_app.git
-   cd food_ordering_app
+   git clone https://github.com/kingofallsnakes/Flutter-Food_lovers.git
+   cd Flutter-Food_lovers
    ```
 
 2. **Install dependencies**
